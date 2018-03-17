@@ -1,5 +1,5 @@
 
-//no se cambio nada funcion resta_200819214
+//no se cambio nada funcion resta 200819214
 
 
 // no hay errores a modidicar -200815342
@@ -9,6 +9,7 @@ int resta(int x, int y){
 }
 
 
+//no se cambio nada funcion divide 200819214
 // no se modidicar nada
 int divide(int x, int y){
 	return x/y;
@@ -35,6 +36,7 @@ int raiz(int a){
 }
 
 // no se modificara nada-200815342
+//no se cambio nada funcion potencia 200819214
 int Potencia(int numero, int base){
 			int temp=1;
       for(int i = 0; i<=base; i++){
