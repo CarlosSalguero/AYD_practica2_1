@@ -9,6 +9,7 @@ int resta(int x, int y){
 }
 
 
+
 // no se modidicar nada
 int divide(int x, int y){
 	return x/y;
@@ -34,6 +35,8 @@ int raiz(int a){
 	return resultado2;
 }
 
+
+//no se cambio nada funcion potencia 200819214
 int Potencia(int numero, int base){
 			int temp=1;
       for(int i = 0; i<=base; i++){
