@@ -1,8 +1,13 @@
 
+<<<<<<< HEAD
 //no se cambio nada funcion resta 200819214
 
 
 // no hay errores a modidicar -200815342
+=======
+//no se corrigo nada funcion resta 200819214
+int resta(int x, int y){
+>>>>>>> hotfix2
 
 int resta(int x, int y){
 	return x-y;
