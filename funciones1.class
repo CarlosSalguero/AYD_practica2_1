@@ -27,7 +27,7 @@ int Multiplicar(int a, int b){
 }
 
 
-
+// no se modificara
 int raiz(int a){
 
 	int resultado2 = (float)Math.pow(a, 1/2);
