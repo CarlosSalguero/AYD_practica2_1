@@ -1,7 +1,21 @@
 
+
 //no se cambio nada funcion resta 200819214
 //no se corrigo nada funcion resta 200819214
 int resta(int x, int y){
+
+
+//no se cambio nada funcion resta 200819214
+
+
+// no hay errores a modidicar -200815342
+
+//no se corrigo nada funcion resta 200819214
+int resta(int x, int y){
+
+
+int resta(int x, int y){
+
 	return x-y;
 }
 
@@ -13,8 +27,11 @@ int divide(int x, int y){
 }
 
 
+
+
 //no se cambio nada funcion suma 200819214
 // no se modificara
+
 int Suma(int a, int b){
   return a+b;
 }
@@ -28,6 +45,10 @@ int Multiplicar(int a, int b){
 	return resultado;
 }
 
+
+
+int modular(int a){
+	return a;
 
 // no se modificara
 //no se cambio nada funcion raiz 200819214
@@ -45,5 +66,6 @@ int Potencia(int numero, int base){
 				temp = numero*temp;
 			}
 			return temp;
+
 
 }
