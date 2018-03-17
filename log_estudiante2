@@ -1,0 +1,136 @@
+[33mcommit c4d9f9f308825bb69e23ab9324fcec68851904d2[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 03:44:17 2018 -0600
+
+    agrega comentario correcion factorial2_200819214
+
+[33mcommit c1eda4fe8fd8cbdcc58073c623abf682da912801[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 03:43:20 2018 -0600
+
+    agrega comentario correcion factorial_200819214
+
+[33mcommit b3547d8fa2078cbf58e88b4c247851e119e3a708[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 03:36:05 2018 -0600
+
+    agregar comentario correccion raiz cuadrada  200819214
+
+[33mcommit 0a8efaffbe608573f3c2e3e9f8a821628e030d56[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 03:35:13 2018 -0600
+
+    agregar comentario correccion multiplica  200819214
+
+[33mcommit 6a279e610a1115201c2e0d0fb2b780bb16e987ae[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 03:34:23 2018 -0600
+
+    agregar comentario correccion suma  200819214
+
+[33mcommit 1ea96b6ec0534ca623744c0bccfc2cda70c86e44[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 03:32:58 2018 -0600
+
+    agregar comentario correccion divide  200819214
+
+[33mcommit 80239a94704b9cd9550860e3bbfbb416513cd6ce[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 03:31:29 2018 -0600
+
+    agregar comentario correccion 200819214
+
+[33mcommit 0b80a93e3a04fde9d5a8a0cbc517b47bbff901c9[m
+Merge: f86530c 76583c3
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 03:27:43 2018 -0600
+
+    Merge branch 'hotfix' of https://github.com/CarlosSalguero/AYD_practica2_1 into hotfix
+
+[33mcommit f86530c0d412d415c3b816d4a891f896976c5b72[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 03:25:41 2018 -0600
+
+    comentario correcion funcion resta 200819214
+
+[33mcommit 50657eba60561766e46ff25fd38560d441ece9ff[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 03:23:43 2018 -0600
+
+    prueba master_200819214
+
+[33mcommit 04f22ddf31cf4487739a0b914cc88aef38cd9706[m
+Merge: d886255 9454c62
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 03:19:45 2018 -0600
+
+    corrige conflicto merge 200819214
+
+[33mcommit d886255bc6f0369325d21a51b5fdf51655c6d703[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 03:17:21 2018 -0600
+
+    commit para funciones1
+
+[33mcommit 9bde61c8a55d8734fc0ef065921394553b266b24[m
+Merge: bcd9640 569604b
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 02:58:50 2018 -0600
+
+    resuelve conflicto merge funcion raiz_200819214
+
+[33mcommit bcd96408ee3cd6ab2152ee74a12d14216767d14a[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 02:55:45 2018 -0600
+
+    agrega funcion raiz_200819214
+
+[33mcommit 044ea0da7ea6bae5d3fe97bb9f2deafa6c6a8e4f[m
+Merge: a5a9915 3972ec3
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 02:41:02 2018 -0600
+
+    resolucion conflicto merge  metodo factorial_200819214
+
+[33mcommit a5a9915de2c65059410e232fed6dbe8224a0272d[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 02:35:26 2018 -0600
+
+    agrega defincion de metodo factorial_iterativo_200819214
+
+[33mcommit 2f0790b7250ef0b1f1c9171671d4a4eba8f618ef[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 02:28:31 2018 -0600
+
+    agrega defincion de metodo factorial_200819214
+
+[33mcommit 2f9d73b6d2f3d342c19b16a5209ac8eb28ba699a[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 02:24:55 2018 -0600
+
+    creacion archivo funcion2_200819214
+
+[33mcommit 2398c8d48404b1754be20ccbe78106c38909c22f[m
+Merge: d2e8508 a221061
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 02:20:41 2018 -0600
+
+    solucion conflicto en merge_funciones_sum_res_mul_div_200819214
+
+[33mcommit d2e85081bbc741a7eaebefe6a95552df8e1470d7[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 02:03:52 2018 -0600
+
+    se crea funcion divide_200819214
+
+[33mcommit bbc583944e4cbe3d413502e26bc27e454636710c[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 01:58:27 2018 -0600
+
+    se crea funcion restab_200819214
+
+[33mcommit cbae72cce9fc5a6526ffa279c481cdf04e7cfc88[m
+Author: carr5night <carr5night@gmail.com>
+Date:   Sat Mar 17 01:44:42 2018 -0600
+
+    Datos Estudiante2_200819214

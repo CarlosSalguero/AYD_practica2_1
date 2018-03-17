@@ -1,0 +1,282 @@
+[33mcommit e46a181c2ed389ebc74ad761f09d4262283548c1[m
+Merge: de15c74 73751e7
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:49:02 2018 -0600
+
+    Merge branch 'hotfix2' into Master
+
+[33mcommit 73751e700165dd57d33940a464d5ea263297b2d4[m
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:48:23 2018 -0600
+
+    no se cambio nada funcion factorial recursiva_200815342
+
+[33mcommit 35927eaa83b0278113b9d147525b41dd7b13cc0d[m
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:47:32 2018 -0600
+
+    No se modifico funcion factoril iterativa_200815342
+
+[33mcommit de15c74d417934761ee7230ddedddb4241583051[m
+Merge: cb1d9d8 50657eb
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:42:07 2018 -0600
+
+    Solucion de Conflicto merge hothix to Master_200815342
+
+[33mcommit cb1d9d88e6108f0ac37a6944384f7149e55c4e13[m
+Merge: 9c4d969 3848ef7
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:39:38 2018 -0600
+
+    Merge branch 'hotfix' on master
+
+[33mcommit 3848ef7dd2f33f819b8d383dae52b888e3d6cf56[m
+Merge: 14865fa b3547d8
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:38:06 2018 -0600
+
+    Merge branch 'hotfix' of github.com:CarlosSalguero/AYD_practica2_1 into hotfix
+    Reparacion archivo
+
+[33mcommit 14865facd7afa74ba11600924626642075974b3c[m
+Merge: db68c6c 0a8efaf
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:35:41 2018 -0600
+
+    Merge branch 'hotfix' of github.com:CarlosSalguero/AYD_practica2_1 into hotfix
+    solucion de conlicto-solucionado- comentarios de revision
+
+[33mcommit db68c6c62862283ece2f3d465e4afe798f1983bf[m
+Merge: 71c0b5d 6a279e6
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:35:09 2018 -0600
+
+    Merge branch 'hotfix' of github.com:CarlosSalguero/AYD_practica2_1 into hotfix
+
+[33mcommit 71c0b5d0c5f3ac6c16e86fda1c818a6341ce7ff9[m
+Merge: 6884afa 1ea96b6
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:34:50 2018 -0600
+
+    Solucion de Comflicto-revision funcion Potencia_200815342
+
+[33mcommit 6884afa1b0039a0801ff3a95bb9703d31b42917f[m
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:33:01 2018 -0600
+
+    No se modificara funcion Potencia_200815342
+
+[33mcommit 76583c305af79fec8e420f8735f0a411729c78bd[m
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:26:44 2018 -0600
+
+    no se modificara funcion razi_200815342
+
+[33mcommit af2d156247d7c08bbbb363d2e52cd199a6ff064a[m
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:25:40 2018 -0600
+
+    No se modifica multiplicacion_200815342
+
+[33mcommit 987cb7b68142bae070101672c74f7f78a4febf87[m
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:24:48 2018 -0600
+
+    No se modificara suma_200815342
+
+[33mcommit 3220171c5cb6f83922984bd93e0c3c6b7fcc082a[m
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:24:00 2018 -0600
+
+    No se modificara funcion resta_200815342
+
+[33mcommit 9c4d9693397e87baabeb39b1f2968e3ebf29a71a[m
+Merge: 9bde61c 044ea0d
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:11:07 2018 -0600
+
+    Merge branch 'feature_operaciones2' into develop
+
+[33mcommit 9454c62cda613d3283726bde0700966e86ed3673[m
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 03:08:33 2018 -0600
+
+    Revision funcion resta_200815342
+
+[33mcommit 569604babbdfcef71c84e9184c7c07b62b070b7c[m
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 02:54:40 2018 -0600
+
+    Se agrego Funcion Potencia-funciones1_200815342
+
+[33mcommit 3972ec31e0d73c5131be63f71fd2ef0fb707e589[m
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 02:32:06 2018 -0600
+
+    Implementacion metodo Factorial Recursivo_200815342
+
+[33mcommit a221061ee2465e3d5aa3aa57adb2a7d630c12e08[m
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 02:02:09 2018 -0600
+
+    Se creo Funcion Multiplciar_200815342
+
+[33mcommit ed5f8d3785de9b4352d70a6d31e0ef862182d5d3[m
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 01:56:27 2018 -0600
+
+    Se creo funcion SumaBinaria_200815342
+
+[33mcommit 63667fff20b9ba5708f54b0f465a3bad94d4ad09[m
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 01:49:49 2018 -0600
+
+    Se a creado el archivo de operaciones BASICAS_200815342
+
+[33mcommit 67fbc3b3e78871f959780c1af988f4f9b2471cdf[m
+Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+Date:   Sat Mar 17 01:41:58 2018 -0600
+
+    Datos Estudiante 1_200815342
+*   [33mcommit e46a181c2ed389ebc74ad761f09d4262283548c1[m
+[31m|[m[32m\[m  Merge: de15c74 73751e7
+[31m|[m [32m|[m Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[31m|[m [32m|[m Date:   Sat Mar 17 03:49:02 2018 -0600
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'hotfix2' into Master
+[31m|[m [32m|[m   
+[31m|[m * [33mcommit 73751e700165dd57d33940a464d5ea263297b2d4[m
+[31m|[m [32m|[m Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[31m|[m [32m|[m Date:   Sat Mar 17 03:48:23 2018 -0600
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     no se cambio nada funcion factorial recursiva_200815342
+[31m|[m [32m|[m   
+[31m|[m * [33mcommit 35927eaa83b0278113b9d147525b41dd7b13cc0d[m
+[31m|[m   Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[31m|[m   Date:   Sat Mar 17 03:47:32 2018 -0600
+[31m|[m   
+[31m|[m       No se modifico funcion factoril iterativa_200815342
+[31m|[m  
+* [33mcommit de15c74d417934761ee7230ddedddb4241583051[m
+[32m|[m Merge: cb1d9d8 50657eb
+[32m|[m Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[32m|[m Date:   Sat Mar 17 03:42:07 2018 -0600
+[32m|[m 
+[32m|[m     Solucion de Conflicto merge hothix to Master_200815342
+[32m|[m    
+*   [33mcommit cb1d9d88e6108f0ac37a6944384f7149e55c4e13[m
+[33m|[m[34m\[m  Merge: 9c4d969 3848ef7
+[33m|[m [34m|[m Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[33m|[m [34m|[m Date:   Sat Mar 17 03:39:38 2018 -0600
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Merge branch 'hotfix' on master
+[33m|[m [34m|[m   
+[33m|[m * [33mcommit 3848ef7dd2f33f819b8d383dae52b888e3d6cf56[m
+[33m|[m [34m|[m Merge: 14865fa b3547d8
+[33m|[m [34m|[m Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[33m|[m [34m|[m Date:   Sat Mar 17 03:38:06 2018 -0600
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Merge branch 'hotfix' of github.com:CarlosSalguero/AYD_practica2_1 into hotfix
+[33m|[m [34m|[m     Reparacion archivo
+[33m|[m [34m|[m   
+[33m|[m * [33mcommit 14865facd7afa74ba11600924626642075974b3c[m
+[33m|[m [34m|[m Merge: db68c6c 0a8efaf
+[33m|[m [34m|[m Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[33m|[m [34m|[m Date:   Sat Mar 17 03:35:41 2018 -0600
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Merge branch 'hotfix' of github.com:CarlosSalguero/AYD_practica2_1 into hotfix
+[33m|[m [34m|[m     solucion de conlicto-solucionado- comentarios de revision
+[33m|[m [34m|[m   
+[33m|[m * [33mcommit db68c6c62862283ece2f3d465e4afe798f1983bf[m
+[33m|[m [34m|[m Merge: 71c0b5d 6a279e6
+[33m|[m [34m|[m Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[33m|[m [34m|[m Date:   Sat Mar 17 03:35:09 2018 -0600
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Merge branch 'hotfix' of github.com:CarlosSalguero/AYD_practica2_1 into hotfix
+[33m|[m [34m|[m   
+[33m|[m * [33mcommit 71c0b5d0c5f3ac6c16e86fda1c818a6341ce7ff9[m
+[33m|[m [34m|[m Merge: 6884afa 1ea96b6
+[33m|[m [34m|[m Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[33m|[m [34m|[m Date:   Sat Mar 17 03:34:50 2018 -0600
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Solucion de Comflicto-revision funcion Potencia_200815342
+[33m|[m [34m|[m   
+[33m|[m * [33mcommit 6884afa1b0039a0801ff3a95bb9703d31b42917f[m
+[33m|[m [34m|[m Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[33m|[m [34m|[m Date:   Sat Mar 17 03:33:01 2018 -0600
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     No se modificara funcion Potencia_200815342
+[33m|[m [34m|[m   
+[33m|[m * [33mcommit 76583c305af79fec8e420f8735f0a411729c78bd[m
+[33m|[m [34m|[m Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[33m|[m [34m|[m Date:   Sat Mar 17 03:26:44 2018 -0600
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     no se modificara funcion razi_200815342
+[33m|[m [34m|[m   
+[33m|[m * [33mcommit af2d156247d7c08bbbb363d2e52cd199a6ff064a[m
+[33m|[m [34m|[m Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[33m|[m [34m|[m Date:   Sat Mar 17 03:25:40 2018 -0600
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     No se modifica multiplicacion_200815342
+[33m|[m [34m|[m   
+[33m|[m * [33mcommit 987cb7b68142bae070101672c74f7f78a4febf87[m
+[33m|[m [34m|[m Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[33m|[m [34m|[m Date:   Sat Mar 17 03:24:48 2018 -0600
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     No se modificara suma_200815342
+[33m|[m [34m|[m   
+[33m|[m * [33mcommit 3220171c5cb6f83922984bd93e0c3c6b7fcc082a[m
+[33m|[m   Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[33m|[m   Date:   Sat Mar 17 03:24:00 2018 -0600
+[33m|[m   
+[33m|[m       No se modificara funcion resta_200815342
+[33m|[m    
+[33m|[m * [33mcommit 9454c62cda613d3283726bde0700966e86ed3673[m
+[33m|[m   Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[33m|[m   Date:   Sat Mar 17 03:08:33 2018 -0600
+[33m|[m   
+[33m|[m       Revision funcion resta_200815342
+[33m|[m  
+* [33mcommit 9c4d9693397e87baabeb39b1f2968e3ebf29a71a[m
+  Merge: 9bde61c 044ea0d
+  Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+  Date:   Sat Mar 17 03:11:07 2018 -0600
+  
+      Merge branch 'feature_operaciones2' into develop
+  
+* [33mcommit 3972ec31e0d73c5131be63f71fd2ef0fb707e589[m
+  Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+  Date:   Sat Mar 17 02:32:06 2018 -0600
+  
+      Implementacion metodo Factorial Recursivo_200815342
+  
+* [33mcommit 569604babbdfcef71c84e9184c7c07b62b070b7c[m
+  Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+  Date:   Sat Mar 17 02:54:40 2018 -0600
+  
+      Se agrego Funcion Potencia-funciones1_200815342
+  
+* [33mcommit a221061ee2465e3d5aa3aa57adb2a7d630c12e08[m
+[35m|[m Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[35m|[m Date:   Sat Mar 17 02:02:09 2018 -0600
+[35m|[m 
+[35m|[m     Se creo Funcion Multiplciar_200815342
+[35m|[m  
+* [33mcommit ed5f8d3785de9b4352d70a6d31e0ef862182d5d3[m
+[35m|[m Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+[35m|[m Date:   Sat Mar 17 01:56:27 2018 -0600
+[35m|[m 
+[35m|[m     Se creo funcion SumaBinaria_200815342
+[35m|[m  
+* [33mcommit 63667fff20b9ba5708f54b0f465a3bad94d4ad09[m
+  Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+  Date:   Sat Mar 17 01:49:49 2018 -0600
+  
+      Se a creado el archivo de operaciones BASICAS_200815342
+  
+* [33mcommit 67fbc3b3e78871f959780c1af988f4f9b2471cdf[m
+  Author: CarlosSalguero <carlos.bautista2008@gmail.com>
+  Date:   Sat Mar 17 01:41:58 2018 -0600
+  
+      Datos Estudiante 1_200815342
