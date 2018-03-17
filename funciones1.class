@@ -1,24 +1,62 @@
 
+
+//no se cambio nada funcion resta 200819214
+
+
+// no hay errores a modidicar -200815342
+
+//no se corrigo nada funcion resta 200819214
 int resta(int x, int y){
-	
+
+
+int resta(int x, int y){
 	return x-y;
 }
 
+
+//no se cambio nada funcion divide 200819214
+// no se modidicar nada
 int divide(int x, int y){
-	
 	return x/y;
 }
 
+
+
+
+//no se cambio nada funcion suma 200819214
+// no se modificara
 
 int Suma(int a, int b){
   return a+b;
 }
 
+// no se modificara
+//no se cambio nada funcion multiplica 200819214
 int Multiplicar(int a, int b){
   return a*b;
 }
 
 
+
 int modular(int a){
 	return a;
+
+// no se modificara
+//no se cambio nada funcion raiz 200819214
+int raiz(int a){
+
+	int resultado2 = (float)Math.pow(a, 1/2);
+	return resultado2;
+}
+
+// no se modificara nada-200815342
+//no se cambio nada funcion potencia 200819214
+int Potencia(int numero, int base){
+			int temp=1;
+      for(int i = 0; i<=base; i++){
+				temp = numero*temp;
+			}
+			return temp;
+
+
 }
