@@ -1,3 +1,4 @@
+
 int resta(int x, int y){
 	
 	return x-y;
@@ -6,5 +7,16 @@ int resta(int x, int y){
 int divide(int x, int y){
 	
 	return x/y;
+}
+
+
+
+
+int Suma(int a, int b){
+  return a+b;
+}
+
+int Multiplicar(int a, int b){
+  return a*b;
 }
 
