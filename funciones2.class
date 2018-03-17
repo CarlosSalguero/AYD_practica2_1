@@ -1,5 +1,5 @@
-
-int factorial(){
+//no se cambio nada, funcion factorial 200819214
+int factorial(){ 
 
 	if(n==0 || n==1) 
 		return n;
