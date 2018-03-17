@@ -1,11 +1,11 @@
-
+//no se cambio nada funcion resta_200819214
 int resta(int x, int y){
-
 	return x-y;
 }
 
-int divide(int x, int y){
 
+
+int divide(int x, int y){
 	return x/y;
 }
 
@@ -16,6 +16,7 @@ int Suma(int a, int b){
   return a+b;
 }
 
+
 int Multiplicar(int a, int b){
   return a*b;
 }
@@ -24,7 +25,7 @@ int Multiplicar(int a, int b){
 
 int raiz(int a){
 
-	int resultado2 = (float) Math.pow(a, 1/2);
+	int resultado2 = (float)Math.pow(a, 1/2);
 	return resultado2;
 }
 
