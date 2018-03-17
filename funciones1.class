@@ -9,7 +9,7 @@ int resta(int x, int y){
 }
 
 
-
+// no se modidicar nada
 int divide(int x, int y){
 	return x/y;
 }
