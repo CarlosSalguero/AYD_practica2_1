@@ -1,4 +1,9 @@
+
 //no se cambio nada funcion resta_200819214
+
+
+// no hay errores a modidicar -200815342
+
 int resta(int x, int y){
 	return x-y;
 }
